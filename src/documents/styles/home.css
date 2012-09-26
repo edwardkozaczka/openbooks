@@ -151,6 +151,11 @@
     font-weight: bold;
     font-size: 1.4em;
 }
+
+.slides li p span {
+    color: #84cfcb;
+    font-weight: 900;
+}
 .hero-unit .flexslider {
     margin: .5em auto .5em;
     -webkit-box-shadow: none;
@@ -211,10 +216,20 @@ div.center{
 
 div.span6{
 	cursor: pointer;
-	background: #d1d3d4;
-	padding: 10px 0px;
-	color: #da1a2d;
+	background: #84cfcb;
+	padding: 15px 0px;
+	color: #000;
+    text-transform: uppercase;
 	margin-bottom: 1px;
+}
+
+div.span6 h2 {
+	font-weight: 900;
+}
+
+div.span6 p {
+    color: #d22329;
+    font-weight: 900;
 }
 
 .float-left{
