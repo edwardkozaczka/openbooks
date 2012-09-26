@@ -4,15 +4,49 @@ layout: page
 pageOrder: 3
 ---
 
+
 <h1>Visit Open Books</h1>
+<div class="row">
+  <span class="span4">
+    <p>
+    It's been called "the most beautiful bookstore in Chicago," and it holds more than 50,000 donated books for sale to help support our literacy mission. Come visit!
+    </p>
+    <p>If you're looking for a specific title, please feel free to <a href="mailto:store@open-books.org?subject=Inquiry About Specific Title">contact us</a>.</p>
+  </span>
+  <span class="span8">
+    <img src="/img/sitting_area.jpg" alt="Sitting Area" />
+  </span>
+</div>
 
-<p>
-It's been called "the most beautiful bookstore in Chicago," and it holds more than 50,000 donated books for sale to help support our literacy mission. Come visit!
-</p>
-<p>If you're looking for a specific title, please feel free to <a href="mailto:store@open-books.org?subject=Inquiry About Specific Title">contact us</a>.</p>
+<div class="row">
+  <div class="span4">
+    <h2>Hours</h2>
+    <p>Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui. </p>
+  </div>
+  <div class="span4">
+    <h2>Location</h2>
+    <p></p>
+ </div>
+  <div class="span4">
+    <h2>Connect</h2>
+    <ul>
+      <li>
+        <a href="http://twitter.com/openbookstore">Twitter</a>
+      </li>
+    </ul>
+  </div>
+</div>
+<div class="row">
+  <span class="span6"><img src="/img/stacks1.jpg" alt="stacks of books" /></span>
+  <span class="span6"><img src="/img/stacks2.jpg" alt="more stacks of books" /></span>
+</div>
 
-<img src="/img/sitting_area.jpg" alt="Sitting Area" />
-<img src="/img/stacks1.jpg" alt="stacks of books" />
-<img src="/img/stacks2.jpg" alt="more stacks of books" />
-<img src="/img/childrens_books.jpg" alt="children's books" />
+<div class="row">
+  <span class="span6">
+    <img src="/img/childrens_books.jpg" alt="children's books" />
+  </span>
+  <span class="span6">
+    <img src="/img/storefront.jpg" alt="children's books" />
+  </span>
+</div>
 
