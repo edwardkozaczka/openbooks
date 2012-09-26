@@ -61,10 +61,12 @@
 			<%- @content %>
 		</section>
 		<footer>
-			<p>&copy; Company 2012</p>
-			<!-- <p style="float:right;">
-				This website was last updated at <%= @site.date.toISOString() %>
-			</p> -->
+                <div class="row">
+                  <span class="span4">&copy; Open Books Ltd 2012</span>
+                  <span class="span4">Phone: (312) 475-1355</span>
+                  <span class="span4"><a href="http://maps.google.com/maps?f=q&source=s_q&hl=en&geocode=&q=Open+Books+Ltd.,+West+Institute+Place,+Chicago,+IL&aq=0&oq=Open+Books&sll=41.897323,-87.63522&sspn=0.010494,0.022724&vpsrc=6&g=213+W.+Institute+Pl.+Chicago,+IL+60610&ie=UTF8&hq=Open+Books+Ltd.,+West+Institute+Place,+Chicago,+IL&ll=41.897246,-87.63485&spn=0.010494,0.022724&t=m&z=16&iwloc=A&cid=16299817488196764995">213 W. Institute Pl. Chicago, IL 60610</a>
+                  </span>
+                </div>
 		</footer>
 	</div><!-- /container -->
 
