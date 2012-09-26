@@ -62,9 +62,9 @@
 		</section>
 		<footer>
 			<p>&copy; Company 2012</p>
-			<p style="float:right;">
+			<!-- <p style="float:right;">
 				This website was last updated at <%= @site.date.toISOString() %>
-			</p>
+			</p> -->
 		</footer>
 	</div><!-- /container -->
 

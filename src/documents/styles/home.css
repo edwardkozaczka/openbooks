@@ -206,3 +206,13 @@ div.span6{
 	color: #da1a2d;
 	margin-bottom: 1px;
 }
+
+.float-left{
+	float:left;
+	margin: 0px 20px;
+	width: 80px;
+}
+
+footer{
+	margin-top: 50px;
+}
