@@ -224,12 +224,22 @@ div.span6{
 }
 
 
-
+/***** DONATE PAGE *****/
 .page-icon{
 	height: 40px;
 	margin-top: -10px;
 }
 
+.paypal-donate{
+	margin: 10px 0px 0px 0px;
+	width: 100%;
+}
+
+form{
+	margin-bottom: 0px;
+}
+
+/***** END DONATE PAGE *****/
 
 footer{
 	margin-top: 50px;

@@ -6,7 +6,7 @@ pageOrder: 2
 
 <!-- Image Slider -->
 <div class="row center">
-	<a class="brand" href="/"><img height="100" src="/img/OBOO_Logo.png" alt="OpenBooks" /></a>
+	<a class="brand" href="/"><img height="80" src="/img/OBOO_Logo.png" alt="OpenBooks" /></a>
 </div>
 
 
@@ -29,62 +29,12 @@ pageOrder: 2
         <input type="hidden" name="no_note" value="0">
         <input type="hidden" name="currency_code" value="USD">
         <input type="hidden" name="bn" value="PP-DonationsBF:mg_welcome.jpg:NonHostedGuest">
-        <button class="paypal-donate btn" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!" >Donate Now!</button>
+        <button class="paypal-donate btn btn-info" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!" >Donate Now!</button>
         
         
         <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1" >
     </form>
 
-
-<p>Your support is critical to the literacy mission.
-Your financial contribution is tax-deductible.
-Open Books Ltd. is a registered 501(c)(3) nonprofit organization.
-</p>
-
-What your donation can do.(expandable section)
-Expanded section copy
-<h3>$50</h3>
-<p>A book grant delivery to a community group in the city of Chicago.</p>
-
-<h3>$100</h3>
-<p>An Open Booksmobile school visit</p>
-
-<h3>$200  </h3>
-<p>An elementary school student paired with an Open Books Buddy for an entire</p> semester.
-
-<h3>$300 </h3>
-<p>Journals, books and published anthologies for an entire class's Adventures In Creative Writing field trip.</p>
-
-<h3>$500 </h3>
-<p>Publication of a class's ReadThenWrite memoirs.</p>
-
-
-<h3>Books</h3>
-<p>We welcome any sellable book in good condition. Also now accepting CDs and DVDs in good playable condition.</p>
-
-
-<h2>At the Store</h2>
-<p>213 W. Institute Pl.</p>
-<p>Chicago, IL 60610 </p>
-<p>(River North)</p>
-
-<p>Mon - Sat 10am - 7pm</p>
-<p>Sun 12n - 6pm</p>
-
-<h2>Drop Box </h2>
-<p>1740 W. Webster </p>
-<p>Chicago, IL 60614 </p>
-<p>(Lincoln Park) </p>
-<p>open 24 hours</p>
-
-Drop Box Directions
-<p>The dropbox is in the parking lot behind the U-Haul warehouse building. Take either side driveway next to the building, go around back to the river, and look for the big white box with the Open Books signage. </p>
-
-<p>Need a receipt? <a href="http://www.open-books.org/bookdrives/docs/OpenBooks_BookDonationTaxReceipt.pdf">Download the pdf</a></p>
-
-  
-
-    </br>
     or set up a recurring donation:
     <form action="https://www.paypal.com/cgi-bin/webscr" method="post">
     <select name="os0">
@@ -96,8 +46,61 @@ Drop Box Directions
     <input type="hidden" name="cmd" value="_s-xclick">
     <input type="hidden" name="hosted_button_id" value="Z6VV72C9TT7LW">
     <input type="hidden" name="currency_code" value="USD">
-    <button class="paypal-donate recurring" alt="PayPal - The safer, easier way to pay online!" >Recurring Donation</button>
+    <button class="paypal-donate recurring btn btn-info" alt="PayPal - The safer, easier way to pay online!" >Recurring Donation</button>
     <img alt="" border="0" src="https://www.paypalobjects.com/WEBSCR-640-20110401-1/en_US/i/scr/pixel.gif" width="1" height="1">
-    
-    
     </form>
+
+
+<p>Your support is critical to the literacy mission.
+Your financial contribution is tax-deductible.
+Open Books Ltd. is a registered 501(c)(3) nonprofit organization.
+</p>
+
+
+
+
+<h3>Books</h3>
+<p>We welcome any sellable book in good condition. Also now accepting CDs and DVDs in good playable condition.</p>
+
+
+
+<h2>At the Store</h2>
+<p>213 W. Institute Pl.	<br />
+Chicago, IL 60610 	<br />
+(River North)</p>
+
+<p>Mon - Sat 10am - 7pm		<br />
+Sun 12n - 6pm</p>
+
+
+
+<h2>Drop Box </h2>
+<p>1740 W. Webster 	<br />
+Chicago, IL 60614 	<br />
+(Lincoln Park) </p>
+<p>open 24 hours</p>
+
+<b>Drop Box Directions </b>
+<p>The dropbox is in the parking lot behind the U-Haul warehouse building. Take either side driveway next to the building, go around back to the river, and look for the big white box with the Open Books signage. </p>
+
+<p>Need a receipt? <a href="http://www.open-books.org/bookdrives/docs/OpenBooks_BookDonationTaxReceipt.pdf">Download the pdf</a></p>
+
+  
+
+
+<h2 class="donation-dropdown">Make an impact</h2>
+
+<h3>$50</h3>
+<p>A book grant delivery to a community group in the city of Chicago.</p>
+
+<h3>$100</h3>
+<p>An Open Booksmobile school visit</p>
+
+<h3>$200  </h3>
+<p>An elementary school student paired with an Open Books Buddy for an entire semester.</p>
+
+<h3>$300 </h3>
+<p>Journals, books and published anthologies for an entire class's Adventures In Creative Writing field trip.</p>
+
+<h3>$500 </h3>
+<p>Publication of a class's ReadThenWrite memoirs.</p>
