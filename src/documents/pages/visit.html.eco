@@ -1,7 +1,7 @@
 ---
 title: Visit
 layout: page
-pageOrder: 2
+pageOrder: 3
 ---
 
 <h1>Visit Open Books</h1>
@@ -10,4 +10,9 @@ pageOrder: 2
 It's been called "the most beautiful bookstore in Chicago," and it holds more than 50,000 donated books for sale to help support our literacy mission. Come visit!
 </p>
 <p>If you're looking for a specific title, please feel free to <a href="mailto:store@open-books.org?subject=Inquiry About Specific Title">contact us</a>.</p>
+
+<img src="/img/sitting_area.jpg" alt="Sitting Area" />
+<img src="/img/stacks1.jpg" alt="stacks of books" />
+<img src="/img/stacks2.jpg" alt="more stacks of books" />
+<img src="/img/childrens_books.jpg" alt="children's books" />
 
