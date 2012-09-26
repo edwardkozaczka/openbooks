@@ -13,3 +13,24 @@ div.span6{
 div.center{
 	text-align: center;
 }
+
+.redhelpbox{
+	border-radius: 10px;
+	font-size: 1.2em;
+	background: red;
+	color: white;
+	height: 50px;
+	text-align: center;
+}
+	.redhelpbox p{
+		padding: 15px;
+	}
+
+.redline{
+	height: 10px;
+	background:red;
+	top:-10px;
+	position:relative;
+	margin-left:-20px;
+	margin-right:-20px;
+}
