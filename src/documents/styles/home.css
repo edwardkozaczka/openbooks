@@ -1,0 +1,15 @@
+
+.navbar .nav{
+	float:right;
+}
+
+div.span6{
+	cursor: pointer;
+	margin-bottom: 20px;
+	background: #CCC;
+	padding: 10px 0px;
+}
+
+div.center{
+	text-align: center;
+}

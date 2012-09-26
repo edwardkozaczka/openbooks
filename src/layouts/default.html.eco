@@ -38,7 +38,7 @@
 	<![endif]-->
 
 	<!-- Styles -->
-	<%- @getBlock('styles').add(["/vendor/twitter-bootstrap/css/bootstrap.css","/vendor/twitter-bootstrap/css/bootstrap-responsive.css","/styles/style.css"]).toHTML() %>
+	<%- @getBlock('styles').add(["/vendor/twitter-bootstrap/css/bootstrap.css","/vendor/twitter-bootstrap/css/bootstrap-responsive.css","/styles/style.css", "/styles/home.css", "/styles/flexslider.css"]).toHTML() %>
 	
 </head>
 <body>
@@ -46,7 +46,6 @@
 	<div class="navbar navbar-fixed-top">
 		<div class="navbar-inner">
 			<div class="container">
-				<a class="brand" href="/">Welcome</a>
 				<ul class="nav">
 					<% for document in @getCollection('pages').toJSON(): %>
 						<li typeof="sioc:Page" about="<%= document.url %>" class="<%= 'active'  if @document.url is document.url %>">
@@ -70,6 +69,6 @@
 	</div><!-- /container -->
 
 	<!-- Scripts -->
-	<%- @getBlock('scripts').add(["/vendor/jquery.js","/vendor/log.js","/vendor/modernizr.js","/scripts/script.js"]).toHTML() %>
+	<%- @getBlock('scripts').add(["/vendor/jquery.js","/vendor/log.js","/vendor/modernizr.js","/scripts/script.js","/scripts/flexslider.js"]).toHTML() %>
 </body>
 </html>
