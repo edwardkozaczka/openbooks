@@ -8,27 +8,27 @@ pageOrder: 3
 <div class="row center">
 	<a class="brand" href="/"><img height="100" src="/img/OBOO_Logo.png" alt="OpenBooks" /></a>
 </div>
+<div class="row margin-bottom">
+  <span class="span6">
 <h1>Visit Open Books</h1>
-<div class="row">
-  <span class="span4">
-    <p>
+    <p class='big-body-text'>
     It's been called "the most beautiful bookstore in Chicago," and it holds more than 50,000 donated books for sale to help support our literacy mission. Come visit!
     </p>
-    <p>If you're looking for a specific title, please feel free to <a href="mailto:store@open-books.org?subject=Inquiry About Specific Title">contact us</a>.</p>
+    <p class='big-body-text'>If you're looking for a specific title, please feel free to <a href="mailto:store@open-books.org?subject=Inquiry About Specific Title">contact us</a>.</p>
   </span>
-  <span class="span8">
+  <span class="span6">
     <img src="/img/sitting_area.jpg" alt="Sitting Area" />
   </span>
 </div>
 
 <div class="row">
   <div class="span4">
-    <h2>Hours</h2>
+    <h2 class="blue-background">Hours</h2>
     <p>Monday to Saturday [10am - 7pm]</span></p>
     <p>Sunday [12noon - 6pm]</span></p>
   </div>
   <div class="span4">
-    <h2>Location</h2>
+    <h2 class="blue-background">Location</h2>
     <a href="http://maps.google.com/maps?f=q&source=s_q&hl=en&geocode=&q=Open+Books+Ltd.,+West+Institute+Place,+Chicago,+IL&aq=0&oq=Open+Books&sll=41.897323,-87.63522&sspn=0.010494,0.022724&vpsrc=6&g=213+W.+Institute+Pl.+Chicago,+IL+60610&ie=UTF8&hq=Open+Books+Ltd.,+West+Institute+Place,+Chicago,+IL&ll=41.897246,-87.63485&spn=0.010494,0.022724&t=m&z=16&iwloc=A&cid=16299817488196764995">
         <p>213 W. Institute Pl.</p>
         <p>Chicago, IL 60610</p>
@@ -36,7 +36,7 @@ pageOrder: 3
     <p></p>
  </div>
   <div class="span4">
-    <h2>Connect</h2>
+    <h2 class="blue-background">Connect</h2>
     <ul class="unstyled">
       <li><a href="http://twitter.com/openbookstore">Twitter</a></li>
       <li><a href="http://www.youtube.com/playlist?list=PLBA4175AD7AF29954">YouTube</a></li>
@@ -46,12 +46,9 @@ pageOrder: 3
 </div>
 <section id='store-images'>
   <div class="row">
-    <span class="span6"><img src="/img/book-shelf.jpg" alt="stacks of books" /></span>
-    <span class="span6"><img src="/img/children-area.jpg" alt="Children's Area" /></span>
-  </div>
-  <div class="row">
-    <span class="span6"><img src="/img/aisle.jpg" alt="Aisle" /></span>
-    <span class="span6"><img src="/img/store-front.jpg" alt="children's books" /></span>
+    <span class="span4"><img src="/img/children-area.jpg" alt="Children's Area" /></span>
+    <span class="span4"><img src="/img/aisle.jpg" alt="Aisle" /></span>
+    <span class="span4"><img src="/img/store-front.jpg" alt="children's books" /></span>
   </div>
 </section>
 <a class="btn" href="http://www.flickr.com/photos/openbooks/sets/72157623050633644/">See More Store Photos »</a>

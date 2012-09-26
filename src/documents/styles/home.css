@@ -247,3 +247,17 @@ footer{
 #store-images img {
   padding: 5px;
 }
+
+.big-body-text {
+  font-size: 16px;
+}
+
+.margin-bottom {
+  margin-bottom: 10px;
+}
+
+.blue-background {
+  padding-left: 8px; 
+  color: white;
+  background: #2f96b4;
+}
