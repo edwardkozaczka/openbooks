@@ -34,10 +34,10 @@ pageOrder: 3
  </div>
   <div class="span4">
     <h2>Connect</h2>
-    <ul>
-      <li>
-        <a href="http://twitter.com/openbookstore">Twitter</a>
-      </li>
+    <ul class="unstyled">
+      <li><a href="http://twitter.com/openbookstore">Twitter</a></li>
+      <li><a href="http://www.youtube.com/playlist?list=PLBA4175AD7AF29954">YouTube</a></li>
+      <li><a href="http://openbookstore.tumblr.com/">Tumblr</a></li>
     </ul>
   </div>
 </div>
