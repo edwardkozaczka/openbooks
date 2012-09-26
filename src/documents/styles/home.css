@@ -147,7 +147,7 @@
 
 .slides li p {
     padding: 1em 13% 0;
-    color: red;
+    color: #F7362C;
     font-weight: bold;
     font-size: 1.4em;
 }
@@ -162,6 +162,13 @@
 .flex-control-nav {
     display: none;
     bottom: -30px;
+}
+
+h1 {
+    color: #F7362C;
+    text-transform: uppercase;
+    font-size: 2em;
+    font-weight: 900;
 }
 
 
