@@ -145,13 +145,6 @@
 	float:right;
 }
 
-div.span6{
-	cursor: pointer;
-	margin-bottom: 20px;
-	background: #CCC;
-	padding: 10px 0px;
-}
-
 div.center{
 	text-align: center;
 }
@@ -159,7 +152,7 @@ div.center{
 .redhelpbox{
 	border-radius: 10px;
 	font-size: 1.2em;
-	background: red;
+	background: #f7362c;
 	color: white;
 	height: 50px;
 	text-align: center;
@@ -170,9 +163,20 @@ div.center{
 
 .redline{
 	height: 10px;
-	background:red;
-	top:-10px;
+	background:#f7362c;
 	position:relative;
-	margin-left:-20px;
-	margin-right:-20px;
+	margin: -10px -20px 0px -20px;
+}
+
+.menu-options{
+	margin-left: -20px;
+	margin-right: -20px;
+}
+
+div.span6{
+	cursor: pointer;
+	background: #d1d3d4;
+	padding: 10px 0px;
+	color: #da1a2d;
+	margin-bottom: 1px;
 }
