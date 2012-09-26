@@ -4,6 +4,9 @@ layout: page
 pageOrder: 4
 ---
 
+<div class="row center">
+	<a class="brand" href="/"><img height="100" src="/img/OBOO_Logo.png" alt="OpenBooks" /></a>
+</div>
 
 <h1>
     Volunteer  </h1>
@@ -19,6 +22,7 @@ pageOrder: 4
 <p>ReadThenWrite An immersive reading, writing, and publishing experience for teenage authors.</p>
 <h3>Book Operations</h3>
 <p>In the Book Store or Ecommerce Warehouse</p>
+<!--
 <h2>Sign Up Here</h2>
 <div class="wpcf7" id="wpcf7-f18-p6-o1"><form action="/volunteer/#wpcf7-f18-p6-o1" method="post" class="wpcf7-form">
 <div style="display: none;">
@@ -48,3 +52,4 @@ pageOrder: 4
 </div>
 <div class="wpcf7-response-output wpcf7-display-none"></div></form></div>
   </div>
+-->

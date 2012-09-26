@@ -4,6 +4,9 @@ layout: page
 pageOrder: 1
 ---
 
+<div class="row center">
+	<a class="brand" href="/"><img height="100" src="/img/OBOO_Logo.png" alt="OpenBooks" /></a>
+</div>
 
 <h1>About Open Books</h1>
 <p>
