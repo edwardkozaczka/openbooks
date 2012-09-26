@@ -11,7 +11,7 @@ pageOrder: 2
 
 
 <!-- Image Slider -->
-<div class="hero-unit">
+<div class="hero-unit center">
 	<img src="/img/fppic_buddies8.jpeg">
 </div>
 
