@@ -137,9 +137,35 @@
 
 
 
+.hero-unit {
+    background-color: #fff;
+    padding: 0
+}
 
 
 
+.slides li p {
+    padding: 1em 10% 0;
+    color: red;
+    font-weight: bold;
+    font-size: 1.4em;
+    letter-spacing: .07em;
+}
+.hero-unit .flexslider {
+    margin-top: 1em;
+    -webkit-box-shadow: none;
+    -moz-box-shadow: none;
+    -ms-box-shadow: none;
+    -o-box-shadow: none;
+    box-shadow: none;
+}
+.flex-control-nav {
+    bottom: -30px;
+}
+
+body {
+    font-family: Lato, Helvetica, Arial, sans-serif;
+}
 
 .navbar .nav{
 	float:right;
