@@ -1,0 +1,38 @@
+---
+title: Donate
+layout: page
+pageOrder: 3
+---
+
+<nav class="linklist">
+    <form action="https://www.paypal.com/cgi-bin/webscr" method="post">
+        <input type="hidden" name="cmd" value="_donations">
+        <input type="hidden" name="business" value="sratner@open-books.org">
+        <input type="hidden" name="lc" value="US">
+        <input type="hidden" name="item_name" value="Open Books">
+        <input type="hidden" name="no_note" value="0">
+        <input type="hidden" name="currency_code" value="USD">
+        <input type="hidden" name="bn" value="PP-DonationsBF:mg_welcome.jpg:NonHostedGuest">
+        <button class="paypal-donate" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!" >Donate Now!</button>
+        
+        <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1" >
+    </form>
+
+    </br>
+    or set up a recurring donation:
+    <form action="https://www.paypal.com/cgi-bin/webscr" method="post">
+    <select name="os0">
+        <option value="$25 A Month">$25 A Month : $25.00USD - monthly</option>
+        <option value="$50 A Month">$50 A Month : $50.00USD - monthly</option>
+        <option value="$100 A Month">$100 A Month : $100.00USD - monthly</option>
+        <option value="$250 A Month">$250 A Month : $250.00USD - monthly</option>
+    </select>
+    <input type="hidden" name="cmd" value="_s-xclick">
+    <input type="hidden" name="hosted_button_id" value="Z6VV72C9TT7LW">
+    <input type="hidden" name="currency_code" value="USD">
+    <button class="paypal-donate recurring" alt="PayPal - The safer, easier way to pay online!" >Recurring Donation</button>
+    <img alt="" border="0" src="https://www.paypalobjects.com/WEBSCR-640-20110401-1/en_US/i/scr/pixel.gif" width="1" height="1">
+    
+    
+    </form>
+</nav>
