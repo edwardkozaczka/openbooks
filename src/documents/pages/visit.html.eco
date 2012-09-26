@@ -42,11 +42,12 @@ pageOrder: 3
   </div>
 </div>
 <div class="row">
-  <span class="span6"><img src="/img/stacks1.jpg" alt="stacks of books" /></span>
-  <span class="span6"><img src="/img/stacks2.jpg" alt="more stacks of books" /></span>
+  <span class="span6"><img src="/img/book-shelf.jpg" alt="stacks of books" /></span>
+  <span class="span6"><img src="/img/children-area.jpg" alt="Children's Area" /></span>
 </div>
 <div class="row">
-  <span class="span6"><img src="/img/childrens_books.jpg" alt="children's books" /></span>
-  <span class="span6"><img src="/img/storefront.jpg" alt="children's books" /></span>
+  <span class="span6"><img src="/img/aisle.jpg" alt="Aisle" /></span>
+  <span class="span6"><img src="/img/store-front.jpg" alt="children's books" /></span>
 </div>
+<a class="btn" href="http://www.flickr.com/photos/openbooks/sets/72157623050633644/">See More Store Photos »</a>
 
