@@ -152,7 +152,7 @@
     letter-spacing: .07em;
 }
 .hero-unit .flexslider {
-    margin-top: 1em;
+    margin: .5em auto .5em;
     -webkit-box-shadow: none;
     -moz-box-shadow: none;
     -ms-box-shadow: none;
@@ -160,8 +160,11 @@
     box-shadow: none;
 }
 .flex-control-nav {
+    display: none;
     bottom: -30px;
 }
+
+
 
 body {
     font-family: Lato, Helvetica, Arial, sans-serif;
