@@ -139,13 +139,14 @@
 
 .hero-unit {
     background-color: #fff;
-    padding: 0
+    padding: 0;
+    margin-bottom: 10px;
 }
 
 
 
 .slides li p {
-    padding: 1em 10% 0;
+    padding: 1em 13% 0;
     color: red;
     font-weight: bold;
     font-size: 1.4em;
