@@ -21,10 +21,15 @@ pageOrder: 3
 <div class="row">
   <div class="span4">
     <h2>Hours</h2>
-    <p>Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui. </p>
+    <p>Monday to Saturday [10am - 7pm]</span></p>
+    <p>Sunday [12noon - 6pm]</span></p>
   </div>
   <div class="span4">
     <h2>Location</h2>
+    <a href="http://maps.google.com/maps?f=q&source=s_q&hl=en&geocode=&q=Open+Books+Ltd.,+West+Institute+Place,+Chicago,+IL&aq=0&oq=Open+Books&sll=41.897323,-87.63522&sspn=0.010494,0.022724&vpsrc=6&g=213+W.+Institute+Pl.+Chicago,+IL+60610&ie=UTF8&hq=Open+Books+Ltd.,+West+Institute+Place,+Chicago,+IL&ll=41.897246,-87.63485&spn=0.010494,0.022724&t=m&z=16&iwloc=A&cid=16299817488196764995">
+        <p>213 W. Institute Pl.</p>
+        <p>Chicago, IL 60610</p>
+    </a>
     <p></p>
  </div>
   <div class="span4">
@@ -40,13 +45,8 @@ pageOrder: 3
   <span class="span6"><img src="/img/stacks1.jpg" alt="stacks of books" /></span>
   <span class="span6"><img src="/img/stacks2.jpg" alt="more stacks of books" /></span>
 </div>
-
 <div class="row">
-  <span class="span6">
-    <img src="/img/childrens_books.jpg" alt="children's books" />
-  </span>
-  <span class="span6">
-    <img src="/img/storefront.jpg" alt="children's books" />
-  </span>
+  <span class="span6"><img src="/img/childrens_books.jpg" alt="children's books" /></span>
+  <span class="span6"><img src="/img/storefront.jpg" alt="children's books" /></span>
 </div>
 

@@ -3,6 +3,11 @@
 	float:right;
 }
 
+.align-right {
+  float:left;
+  padding-right: 135px;
+}
+
 div.span6{
 	cursor: pointer;
 	margin-bottom: 20px;
