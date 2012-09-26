@@ -4,8 +4,24 @@ layout: page
 pageOrder: 2
 ---
 
-<nav class="linklist">
-    <form action="https://www.paypal.com/cgi-bin/webscr" method="post">
+<!-- Image Slider -->
+<div class="row center">
+	<a class="brand" href="/"><img height="100" src="/img/OBOO_Logo.png" alt="OpenBooks" /></a>
+</div>
+
+
+<!-- Image Slider -->
+<div class="hero-unit">
+	<img src="/img/fppic_buddies8.jpeg">
+</div>
+
+
+<h1>
+	<img class="page-icon" src="/img/book.png">
+	Donate Funds
+</h1>
+
+ <form action="https://www.paypal.com/cgi-bin/webscr" method="post">
         <input type="hidden" name="cmd" value="_donations">
         <input type="hidden" name="business" value="sratner@open-books.org">
         <input type="hidden" name="lc" value="US">
@@ -13,62 +29,60 @@ pageOrder: 2
         <input type="hidden" name="no_note" value="0">
         <input type="hidden" name="currency_code" value="USD">
         <input type="hidden" name="bn" value="PP-DonationsBF:mg_welcome.jpg:NonHostedGuest">
-        <button class="paypal-donate" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!" >Donate Now!</button>
+        <button class="paypal-donate btn" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!" >Donate Now!</button>
+        
         
         <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1" >
     </form>
-    <p>
 
-Donate (page heading)
-Your support is critical to the literacy mission.
 
-Financial Gifts
+<p>Your support is critical to the literacy mission.
 Your financial contribution is tax-deductible.
 Open Books Ltd. is a registered 501(c)(3) nonprofit organization.
-
-Call to action button text: Donate Now.
+</p>
 
 What your donation can do.(expandable section)
 Expanded section copy
-$50
-A book grant delivery to a community group in the city of Chicago.
+<h3>$50</h3>
+<p>A book grant delivery to a community group in the city of Chicago.</p>
 
-$100
-An Open Booksmobile school visit
+<h3>$100</h3>
+<p>An Open Booksmobile school visit</p>
 
-$200  
-An elementary school student paired with an Open Books Buddy for an entire semester.
+<h3>$200  </h3>
+<p>An elementary school student paired with an Open Books Buddy for an entire</p> semester.
 
-$300 
-Journals, books and published anthologies for an entire class's Adventures In Creative Writing field trip.
+<h3>$300 </h3>
+<p>Journals, books and published anthologies for an entire class's Adventures In Creative Writing field trip.</p>
 
-$500 
-Publication of a class's ReadThenWrite memoirs.
-
-
-Books
-We welcome any sellable book in good condition. Also now accepting CDs and DVDs in good playable condition.
+<h3>$500 </h3>
+<p>Publication of a class's ReadThenWrite memoirs.</p>
 
 
-At the Store
-213 W. Institute Pl.
-Chicago, IL 60610 
-(River North)
+<h3>Books</h3>
+<p>We welcome any sellable book in good condition. Also now accepting CDs and DVDs in good playable condition.</p>
 
-Mon - Sat 10am - 7pm
-Sun 12n - 6pm
 
-Drop Box 
-1740 W. Webster 
-Chicago, IL 60614
-(Lincoln Park) 
-open 24 hours
+<h2>At the Store</h2>
+<p>213 W. Institute Pl.</p>
+<p>Chicago, IL 60610 </p>
+<p>(River North)</p>
+
+<p>Mon - Sat 10am - 7pm</p>
+<p>Sun 12n - 6pm</p>
+
+<h2>Drop Box </h2>
+<p>1740 W. Webster </p>
+<p>Chicago, IL 60614 </p>
+<p>(Lincoln Park) </p>
+<p>open 24 hours</p>
 
 Drop Box Directions
-The dropbox is in the parking lot behind the U-Haul warehouse building. Take either side driveway next to the building, go around back to the river, and look for the big white box with the Open Books signage. 
+<p>The dropbox is in the parking lot behind the U-Haul warehouse building. Take either side driveway next to the building, go around back to the river, and look for the big white box with the Open Books signage. </p>
 
-Need a receipt? Download the pdf
-    </p>
+<p>Need a receipt? <a href="http://www.open-books.org/bookdrives/docs/OpenBooks_BookDonationTaxReceipt.pdf">Download the pdf</a></p>
+
+  
 
     </br>
     or set up a recurring donation:
@@ -87,4 +101,3 @@ Need a receipt? Download the pdf
     
     
     </form>
-</nav>
