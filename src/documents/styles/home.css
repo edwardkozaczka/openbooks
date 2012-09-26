@@ -246,6 +246,11 @@ div.span6 p {
 	width: 80px;
 }
 
+div.span6 img {
+    height: 70px;
+    width: auto;
+}
+
 
 /***** DONATE PAGE *****/
 .page-icon{
