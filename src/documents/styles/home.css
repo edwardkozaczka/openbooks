@@ -216,10 +216,17 @@ div.span6{
 	width: 80px;
 }
 
+
+
+.page-icon{
+	height: 40px;
+	margin-top: -10px;
+}
+
+
 footer{
 	margin-top: 50px;
 }
-
 #store-images img {
   padding: 5px;
 }
