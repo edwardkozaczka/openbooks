@@ -69,6 +69,6 @@
 	</div><!-- /container -->
 
 	<!-- Scripts -->
-	<%- @getBlock('scripts').add(["/vendor/jquery.js","/vendor/log.js","/vendor/modernizr.js","/scripts/script.js"]).toHTML() %>
+	<%- @getBlock('scripts').add(["/vendor/jquery.js","/vendor/log.js","/vendor/modernizr.js","/scripts/script.js","/scripts/flexslider.js"]).toHTML() %>
 </body>
 </html>
